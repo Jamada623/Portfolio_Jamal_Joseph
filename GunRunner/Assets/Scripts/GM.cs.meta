@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7e39ec577bb5ae84880c6f49b394a765
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mobAlien: {fileID: 8288004615748820599, guid: e6f190fa91afe8d40ae8de33a01bfbaa,
+      type: 3}
+  - mobSlime: {fileID: 3741461209866999482, guid: 07010cc5f60b6984c9d49fd362dbe1fe,
+      type: 3}
+  - mobFly: {fileID: 3802876789539482011, guid: 698027ee39e5ca04aa1d0060629c1980,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

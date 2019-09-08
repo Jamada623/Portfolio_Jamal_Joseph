@@ -1,0 +1,2115 @@
+fileFormatVersion: 2
+guid: ba533386b1db4b4419e3b400b4f59dad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slimescolors_by_moonlightsshadowlove-d77j4r5_0
+    21300002: slimescolors_by_moonlightsshadowlove-d77j4r5_1
+    21300004: slimescolors_by_moonlightsshadowlove-d77j4r5_2
+    21300006: slimescolors_by_moonlightsshadowlove-d77j4r5_3
+    21300008: slimescolors_by_moonlightsshadowlove-d77j4r5_4
+    21300010: slimescolors_by_moonlightsshadowlove-d77j4r5_5
+    21300012: slimescolors_by_moonlightsshadowlove-d77j4r5_6
+    21300014: slimescolors_by_moonlightsshadowlove-d77j4r5_7
+    21300016: slimescolors_by_moonlightsshadowlove-d77j4r5_8
+    21300018: slimescolors_by_moonlightsshadowlove-d77j4r5_9
+    21300020: slimescolors_by_moonlightsshadowlove-d77j4r5_10
+    21300022: slimescolors_by_moonlightsshadowlove-d77j4r5_11
+    21300024: slimescolors_by_moonlightsshadowlove-d77j4r5_12
+    21300026: slimescolors_by_moonlightsshadowlove-d77j4r5_13
+    21300028: slimescolors_by_moonlightsshadowlove-d77j4r5_14
+    21300030: slimescolors_by_moonlightsshadowlove-d77j4r5_15
+    21300032: slimescolors_by_moonlightsshadowlove-d77j4r5_16
+    21300034: slimescolors_by_moonlightsshadowlove-d77j4r5_17
+    21300036: slimescolors_by_moonlightsshadowlove-d77j4r5_18
+    21300038: slimescolors_by_moonlightsshadowlove-d77j4r5_19
+    21300040: slimescolors_by_moonlightsshadowlove-d77j4r5_20
+    21300042: slimescolors_by_moonlightsshadowlove-d77j4r5_21
+    21300044: slimescolors_by_moonlightsshadowlove-d77j4r5_22
+    21300046: slimescolors_by_moonlightsshadowlove-d77j4r5_23
+    21300048: slimescolors_by_moonlightsshadowlove-d77j4r5_24
+    21300050: slimescolors_by_moonlightsshadowlove-d77j4r5_25
+    21300052: slimescolors_by_moonlightsshadowlove-d77j4r5_26
+    21300054: slimescolors_by_moonlightsshadowlove-d77j4r5_27
+    21300056: slimescolors_by_moonlightsshadowlove-d77j4r5_28
+    21300058: slimescolors_by_moonlightsshadowlove-d77j4r5_29
+    21300060: slimescolors_by_moonlightsshadowlove-d77j4r5_30
+    21300062: slimescolors_by_moonlightsshadowlove-d77j4r5_31
+    21300064: slimescolors_by_moonlightsshadowlove-d77j4r5_32
+    21300066: slimescolors_by_moonlightsshadowlove-d77j4r5_33
+    21300068: slimescolors_by_moonlightsshadowlove-d77j4r5_34
+    21300070: slimescolors_by_moonlightsshadowlove-d77j4r5_35
+    21300072: slimescolors_by_moonlightsshadowlove-d77j4r5_36
+    21300074: slimescolors_by_moonlightsshadowlove-d77j4r5_37
+    21300076: slimescolors_by_moonlightsshadowlove-d77j4r5_38
+    21300078: slimescolors_by_moonlightsshadowlove-d77j4r5_39
+    21300080: slimescolors_by_moonlightsshadowlove-d77j4r5_40
+    21300082: slimescolors_by_moonlightsshadowlove-d77j4r5_41
+    21300084: slimescolors_by_moonlightsshadowlove-d77j4r5_42
+    21300086: slimescolors_by_moonlightsshadowlove-d77j4r5_43
+    21300088: slimescolors_by_moonlightsshadowlove-d77j4r5_44
+    21300090: slimescolors_by_moonlightsshadowlove-d77j4r5_45
+    21300092: slimescolors_by_moonlightsshadowlove-d77j4r5_46
+    21300094: slimescolors_by_moonlightsshadowlove-d77j4r5_47
+    21300096: slimescolors_by_moonlightsshadowlove-d77j4r5_48
+    21300098: slimescolors_by_moonlightsshadowlove-d77j4r5_49
+    21300100: slimescolors_by_moonlightsshadowlove-d77j4r5_50
+    21300102: slimescolors_by_moonlightsshadowlove-d77j4r5_51
+    21300104: slimescolors_by_moonlightsshadowlove-d77j4r5_52
+    21300106: slimescolors_by_moonlightsshadowlove-d77j4r5_53
+    21300108: slimescolors_by_moonlightsshadowlove-d77j4r5_54
+    21300110: slimescolors_by_moonlightsshadowlove-d77j4r5_55
+    21300112: slimescolors_by_moonlightsshadowlove-d77j4r5_56
+    21300114: slimescolors_by_moonlightsshadowlove-d77j4r5_57
+    21300116: slimescolors_by_moonlightsshadowlove-d77j4r5_58
+    21300118: slimescolors_by_moonlightsshadowlove-d77j4r5_59
+    21300120: slimescolors_by_moonlightsshadowlove-d77j4r5_60
+    21300122: slimescolors_by_moonlightsshadowlove-d77j4r5_61
+    21300124: slimescolors_by_moonlightsshadowlove-d77j4r5_62
+    21300126: slimescolors_by_moonlightsshadowlove-d77j4r5_63
+    21300128: slimescolors_by_moonlightsshadowlove-d77j4r5_64
+    21300130: slimescolors_by_moonlightsshadowlove-d77j4r5_65
+    21300132: slimescolors_by_moonlightsshadowlove-d77j4r5_66
+    21300134: slimescolors_by_moonlightsshadowlove-d77j4r5_67
+    21300136: slimescolors_by_moonlightsshadowlove-d77j4r5_68
+    21300138: slimescolors_by_moonlightsshadowlove-d77j4r5_69
+    21300140: slimescolors_by_moonlightsshadowlove-d77j4r5_70
+    21300142: slimescolors_by_moonlightsshadowlove-d77j4r5_71
+    21300144: slimescolors_by_moonlightsshadowlove-d77j4r5_72
+    21300146: slimescolors_by_moonlightsshadowlove-d77j4r5_73
+    21300148: slimescolors_by_moonlightsshadowlove-d77j4r5_74
+    21300150: slimescolors_by_moonlightsshadowlove-d77j4r5_75
+    21300152: slimescolors_by_moonlightsshadowlove-d77j4r5_76
+    21300154: slimescolors_by_moonlightsshadowlove-d77j4r5_77
+    21300156: slimescolors_by_moonlightsshadowlove-d77j4r5_78
+    21300158: slimescolors_by_moonlightsshadowlove-d77j4r5_79
+    21300160: slimescolors_by_moonlightsshadowlove-d77j4r5_80
+    21300162: slimescolors_by_moonlightsshadowlove-d77j4r5_81
+    21300164: slimescolors_by_moonlightsshadowlove-d77j4r5_82
+    21300166: slimescolors_by_moonlightsshadowlove-d77j4r5_83
+    21300168: slimescolors_by_moonlightsshadowlove-d77j4r5_84
+    21300170: slimescolors_by_moonlightsshadowlove-d77j4r5_85
+    21300172: slimescolors_by_moonlightsshadowlove-d77j4r5_86
+    21300174: slimescolors_by_moonlightsshadowlove-d77j4r5_87
+    21300176: slimescolors_by_moonlightsshadowlove-d77j4r5_88
+    21300178: slimescolors_by_moonlightsshadowlove-d77j4r5_89
+    21300180: slimescolors_by_moonlightsshadowlove-d77j4r5_90
+    21300182: slimescolors_by_moonlightsshadowlove-d77j4r5_91
+    21300184: slimescolors_by_moonlightsshadowlove-d77j4r5_92
+    21300186: slimescolors_by_moonlightsshadowlove-d77j4r5_93
+    21300188: slimescolors_by_moonlightsshadowlove-d77j4r5_94
+    21300190: slimescolors_by_moonlightsshadowlove-d77j4r5_95
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5643bc772039c84596af59cf7a981e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 234
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e9c46e0d9779439fe2e2643d2bf4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4ef6bdab4b5d44b3aa85b8c421cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240af0dcb2ccb684c82ffdd24213f397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 234
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df93b51e385fd4aa061e275d089cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec4dcb9fcea8b46956e91039d66199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3532220675c6047aa57bec1052ad55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 234
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a9df7265d0ef469bae484b5c80657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 232
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553ad8cffd45d24a973b1383f3c5796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 234
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57eba8e3d0d2043961bb69b04bbaac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 234
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b38854a49891d46971c2a468960eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 232
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d55efb28124314bae157fde1fb50ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93faa9df910ac47aca35a7b496af2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 201
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417a8cc2c8a26c2489b180ac1f65d45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 201
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65302f5bed12647af0a28e4fe2dbfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1486ad171e36944b282dcdc8fd2e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 201
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6b696de71e84428f0b70c821adaa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 201
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16021c87c1db78408ac4e812257bf08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 201
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d31bbe80ea044b9521a9089d6cdee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 201
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d5bf285fb600746b659afc51438561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 201
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53e68bdaaa44f4285ba0d8720c1036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 201
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e209ae6404879947992b1366237268e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 201
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7510d6f47c827bc4c82ed748016a21e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 201
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b7567c7923edd49b3d3259d811d4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928aee954bcd59e498622573a0882970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 169
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeee8dc74b71144bbfc4780a3a22827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde10c493f753684295b37ef4d308af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1c219aea72cbc41bcffe3f8d4b0596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 169
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f18b9847d43a843a154f9ab9f114fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 169
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc4c44803289c498b98825748a8c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b37751f0c04b04a942b975e2c7f8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 169
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9965c6049fbf5042852b2914931b9e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 169
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42e2de596f8ac49b9d5d04ee1f3981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae3e4bdfed1ce48922da148e123fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 169
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6452d351bf5c346828215aee111bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 169
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70cc9483821c954ca698c359e10d4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92d1e22d6485b408bbd6a7ecd78d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e50a274e514e4bb52f75c1ded9a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95549be943a05704ea58a6ad22f1cc07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 138
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaea816e61c6984995b2819cbf63a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f388d991b4934ba85ec32722e6945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2982fffe35aa54d833c5d9ef4695cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 138
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931da399a1a6b4749b8022e6ece9a43b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 137
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce43a933fc9e941bade788431ab6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 137
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e2c26914b74f40a60df18b13fb16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 138
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666d32bc048f024e85ba69162431288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 137
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f305bc9ab782f4ca5968fdac6aabf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 137
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a22febc9195e134dadc26c0e15d264d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c8cba5ec81794e80b46777fb3d6c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c07c70c4276644875e0d33d392329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06165caf5011a1144b1ac9de43c2f2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 103
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330794a09cf288140871b16444f56734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e716f4678177b41aa43db7e6c8acec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c43292570585e4ea66d128fde6ec37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 103
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27415d59ee124f4494b02f2dc0bc7bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450a18c79cec6d4d8b9693e2199284b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 101
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a6e075b413114fa5c87e7643c03ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_57
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 103
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d31e2069666374fa38a81333d3e17a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_58
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d687570bd899e4980e9fa150869153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 101
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e791fb9f01f5f64d8b4d054be80fbbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f86fa47338b59148b65a8f9750c5430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd5a26b6617034290b77697dc14f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4e1d5f327c914d985ad73508095f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ba3ccd3ae53745a16c8fd84e87434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 70
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8b3192a8d4bb4da12212bf26cda49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e46729e88807f43a806768996b8dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be813e21e00b84ab73bd1939e5e887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf691b902c7c5c4e9c780f56d913296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_68
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f144106ed04e4f9b5453303659577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 70
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c0ea721874a9947892450dfdfec0a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be55731e4ea6c419ef6e5b1b872f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee75e43ca4e2534b833e93a5f763833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be817bb126f11dc4b99ef35341996b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370f2b114048d24db903c4bb947f3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb6a04299710047b0ab50b92fbc5d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bf2f745ad15f4ca3380439865db18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525bc719dc552042b6a711330f73852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83c61d43de4e94085babad976571bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 38
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d946c4bed68e34429090216c139a541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 38
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cad2198132c244eba19ef6dd173ad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488deda3a9488ff4683a96b0862e8754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be257f07953e4ba49a3896356558f1b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 38
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55d7195430e86418fd51ec8ea2e3b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 38
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d909af957adab345bea8a8115845d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223565a15de891248b760f41f6a478f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f25f1ce3525a4a88272bf34b517bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f911e71a214ef49af7d059ac89acc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_87
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f97b3213afe54cad8a37b16451085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b939ef034a564dbe60edd8db5b471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b437df29c4fa34d887df92390c022c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f444507ba91074ca021db259969554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf598b12056b948b11119a4289ab21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b0576b83d35c544af45636dfe26a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562b71b87592ef41a6765dd4d65f66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 6
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114668d8f95ecd438a99230d16284ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimescolors_by_moonlightsshadowlove-d77j4r5_95
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e392db38c22b734da0e94b9ec4495aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 808e3eb0517228a4fa6a0e0deeabf0bf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

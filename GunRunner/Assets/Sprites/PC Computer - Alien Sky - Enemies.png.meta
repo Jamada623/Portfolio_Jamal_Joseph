@@ -1,0 +1,3837 @@
+fileFormatVersion: 2
+guid: 9a591acd2f7acbe498f30b0c19408b00
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Alien Sky - Enemies_0
+    21300002: PC Computer - Alien Sky - Enemies_1
+    21300004: PC Computer - Alien Sky - Enemies_2
+    21300006: PC Computer - Alien Sky - Enemies_3
+    21300008: PC Computer - Alien Sky - Enemies_4
+    21300010: PC Computer - Alien Sky - Enemies_5
+    21300012: PC Computer - Alien Sky - Enemies_6
+    21300014: PC Computer - Alien Sky - Enemies_7
+    21300016: PC Computer - Alien Sky - Enemies_8
+    21300018: PC Computer - Alien Sky - Enemies_9
+    21300020: PC Computer - Alien Sky - Enemies_10
+    21300022: PC Computer - Alien Sky - Enemies_11
+    21300024: PC Computer - Alien Sky - Enemies_12
+    21300026: PC Computer - Alien Sky - Enemies_13
+    21300028: PC Computer - Alien Sky - Enemies_14
+    21300030: PC Computer - Alien Sky - Enemies_15
+    21300032: PC Computer - Alien Sky - Enemies_16
+    21300034: PC Computer - Alien Sky - Enemies_17
+    21300036: PC Computer - Alien Sky - Enemies_18
+    21300038: PC Computer - Alien Sky - Enemies_19
+    21300040: PC Computer - Alien Sky - Enemies_20
+    21300042: PC Computer - Alien Sky - Enemies_21
+    21300044: PC Computer - Alien Sky - Enemies_22
+    21300046: PC Computer - Alien Sky - Enemies_23
+    21300048: PC Computer - Alien Sky - Enemies_24
+    21300050: PC Computer - Alien Sky - Enemies_25
+    21300052: PC Computer - Alien Sky - Enemies_26
+    21300054: PC Computer - Alien Sky - Enemies_27
+    21300056: PC Computer - Alien Sky - Enemies_28
+    21300058: PC Computer - Alien Sky - Enemies_29
+    21300060: PC Computer - Alien Sky - Enemies_30
+    21300062: PC Computer - Alien Sky - Enemies_31
+    21300064: PC Computer - Alien Sky - Enemies_32
+    21300066: PC Computer - Alien Sky - Enemies_33
+    21300068: PC Computer - Alien Sky - Enemies_34
+    21300070: PC Computer - Alien Sky - Enemies_35
+    21300072: PC Computer - Alien Sky - Enemies_36
+    21300074: PC Computer - Alien Sky - Enemies_37
+    21300076: PC Computer - Alien Sky - Enemies_38
+    21300078: PC Computer - Alien Sky - Enemies_39
+    21300080: PC Computer - Alien Sky - Enemies_40
+    21300082: PC Computer - Alien Sky - Enemies_41
+    21300084: PC Computer - Alien Sky - Enemies_42
+    21300086: PC Computer - Alien Sky - Enemies_43
+    21300088: PC Computer - Alien Sky - Enemies_44
+    21300090: PC Computer - Alien Sky - Enemies_45
+    21300092: PC Computer - Alien Sky - Enemies_46
+    21300094: PC Computer - Alien Sky - Enemies_47
+    21300096: PC Computer - Alien Sky - Enemies_48
+    21300098: PC Computer - Alien Sky - Enemies_49
+    21300100: PC Computer - Alien Sky - Enemies_50
+    21300102: PC Computer - Alien Sky - Enemies_51
+    21300104: PC Computer - Alien Sky - Enemies_52
+    21300106: PC Computer - Alien Sky - Enemies_53
+    21300108: PC Computer - Alien Sky - Enemies_54
+    21300110: PC Computer - Alien Sky - Enemies_55
+    21300112: PC Computer - Alien Sky - Enemies_56
+    21300114: PC Computer - Alien Sky - Enemies_57
+    21300116: PC Computer - Alien Sky - Enemies_58
+    21300118: PC Computer - Alien Sky - Enemies_59
+    21300120: PC Computer - Alien Sky - Enemies_60
+    21300122: PC Computer - Alien Sky - Enemies_61
+    21300124: PC Computer - Alien Sky - Enemies_62
+    21300126: PC Computer - Alien Sky - Enemies_63
+    21300128: PC Computer - Alien Sky - Enemies_64
+    21300130: PC Computer - Alien Sky - Enemies_65
+    21300132: PC Computer - Alien Sky - Enemies_66
+    21300134: PC Computer - Alien Sky - Enemies_67
+    21300136: PC Computer - Alien Sky - Enemies_68
+    21300138: PC Computer - Alien Sky - Enemies_69
+    21300140: PC Computer - Alien Sky - Enemies_70
+    21300142: PC Computer - Alien Sky - Enemies_71
+    21300144: PC Computer - Alien Sky - Enemies_72
+    21300146: PC Computer - Alien Sky - Enemies_73
+    21300148: PC Computer - Alien Sky - Enemies_74
+    21300150: PC Computer - Alien Sky - Enemies_75
+    21300152: PC Computer - Alien Sky - Enemies_76
+    21300154: PC Computer - Alien Sky - Enemies_77
+    21300156: PC Computer - Alien Sky - Enemies_78
+    21300158: PC Computer - Alien Sky - Enemies_79
+    21300160: PC Computer - Alien Sky - Enemies_80
+    21300162: PC Computer - Alien Sky - Enemies_81
+    21300164: PC Computer - Alien Sky - Enemies_82
+    21300166: PC Computer - Alien Sky - Enemies_83
+    21300168: PC Computer - Alien Sky - Enemies_84
+    21300170: PC Computer - Alien Sky - Enemies_85
+    21300172: PC Computer - Alien Sky - Enemies_86
+    21300174: PC Computer - Alien Sky - Enemies_87
+    21300176: PC Computer - Alien Sky - Enemies_88
+    21300178: PC Computer - Alien Sky - Enemies_89
+    21300180: PC Computer - Alien Sky - Enemies_90
+    21300182: PC Computer - Alien Sky - Enemies_91
+    21300184: PC Computer - Alien Sky - Enemies_92
+    21300186: PC Computer - Alien Sky - Enemies_93
+    21300188: PC Computer - Alien Sky - Enemies_94
+    21300190: PC Computer - Alien Sky - Enemies_95
+    21300192: PC Computer - Alien Sky - Enemies_96
+    21300194: PC Computer - Alien Sky - Enemies_97
+    21300196: PC Computer - Alien Sky - Enemies_98
+    21300198: PC Computer - Alien Sky - Enemies_99
+    21300200: PC Computer - Alien Sky - Enemies_100
+    21300202: PC Computer - Alien Sky - Enemies_101
+    21300204: PC Computer - Alien Sky - Enemies_102
+    21300206: PC Computer - Alien Sky - Enemies_103
+    21300208: PC Computer - Alien Sky - Enemies_104
+    21300210: PC Computer - Alien Sky - Enemies_105
+    21300212: PC Computer - Alien Sky - Enemies_106
+    21300214: PC Computer - Alien Sky - Enemies_107
+    21300216: PC Computer - Alien Sky - Enemies_108
+    21300218: PC Computer - Alien Sky - Enemies_109
+    21300220: PC Computer - Alien Sky - Enemies_110
+    21300222: PC Computer - Alien Sky - Enemies_111
+    21300224: PC Computer - Alien Sky - Enemies_112
+    21300226: PC Computer - Alien Sky - Enemies_113
+    21300228: PC Computer - Alien Sky - Enemies_114
+    21300230: PC Computer - Alien Sky - Enemies_115
+    21300232: PC Computer - Alien Sky - Enemies_116
+    21300234: PC Computer - Alien Sky - Enemies_117
+    21300236: PC Computer - Alien Sky - Enemies_118
+    21300238: PC Computer - Alien Sky - Enemies_119
+    21300240: PC Computer - Alien Sky - Enemies_120
+    21300242: PC Computer - Alien Sky - Enemies_121
+    21300244: PC Computer - Alien Sky - Enemies_122
+    21300246: PC Computer - Alien Sky - Enemies_123
+    21300248: PC Computer - Alien Sky - Enemies_124
+    21300250: PC Computer - Alien Sky - Enemies_125
+    21300252: PC Computer - Alien Sky - Enemies_126
+    21300254: PC Computer - Alien Sky - Enemies_127
+    21300256: PC Computer - Alien Sky - Enemies_128
+    21300258: PC Computer - Alien Sky - Enemies_129
+    21300260: PC Computer - Alien Sky - Enemies_130
+    21300262: PC Computer - Alien Sky - Enemies_131
+    21300264: PC Computer - Alien Sky - Enemies_132
+    21300266: PC Computer - Alien Sky - Enemies_133
+    21300268: PC Computer - Alien Sky - Enemies_134
+    21300270: PC Computer - Alien Sky - Enemies_135
+    21300272: PC Computer - Alien Sky - Enemies_136
+    21300274: PC Computer - Alien Sky - Enemies_137
+    21300276: PC Computer - Alien Sky - Enemies_138
+    21300278: PC Computer - Alien Sky - Enemies_139
+    21300280: PC Computer - Alien Sky - Enemies_140
+    21300282: PC Computer - Alien Sky - Enemies_141
+    21300284: PC Computer - Alien Sky - Enemies_142
+    21300286: PC Computer - Alien Sky - Enemies_143
+    21300288: PC Computer - Alien Sky - Enemies_144
+    21300290: PC Computer - Alien Sky - Enemies_145
+    21300292: PC Computer - Alien Sky - Enemies_146
+    21300294: PC Computer - Alien Sky - Enemies_147
+    21300296: PC Computer - Alien Sky - Enemies_148
+    21300298: PC Computer - Alien Sky - Enemies_149
+    21300300: PC Computer - Alien Sky - Enemies_150
+    21300302: PC Computer - Alien Sky - Enemies_151
+    21300304: PC Computer - Alien Sky - Enemies_152
+    21300306: PC Computer - Alien Sky - Enemies_153
+    21300308: PC Computer - Alien Sky - Enemies_154
+    21300310: PC Computer - Alien Sky - Enemies_155
+    21300312: PC Computer - Alien Sky - Enemies_156
+    21300314: PC Computer - Alien Sky - Enemies_157
+    21300316: PC Computer - Alien Sky - Enemies_158
+    21300318: PC Computer - Alien Sky - Enemies_159
+    21300320: PC Computer - Alien Sky - Enemies_160
+    21300322: PC Computer - Alien Sky - Enemies_161
+    21300324: PC Computer - Alien Sky - Enemies_162
+    21300326: PC Computer - Alien Sky - Enemies_163
+    21300328: PC Computer - Alien Sky - Enemies_164
+    21300330: PC Computer - Alien Sky - Enemies_165
+    21300332: PC Computer - Alien Sky - Enemies_166
+    21300334: PC Computer - Alien Sky - Enemies_167
+    21300336: PC Computer - Alien Sky - Enemies_168
+    21300338: PC Computer - Alien Sky - Enemies_169
+    21300340: PC Computer - Alien Sky - Enemies_170
+    21300342: PC Computer - Alien Sky - Enemies_171
+    21300344: PC Computer - Alien Sky - Enemies_172
+    21300346: PC Computer - Alien Sky - Enemies_173
+    21300348: PC Computer - Alien Sky - Enemies_174
+    21300350: PC Computer - Alien Sky - Enemies_175
+    21300352: PC Computer - Alien Sky - Enemies_176
+    21300354: PC Computer - Alien Sky - Enemies_177
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 653
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f683f46361d4946b6d969c41996955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 653
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2eaabcc9b75a4b988f25f3c576d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 653
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b785d0c2763604eab5897ef6f1d72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 653
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d141bbc9483d5734b8f2278188dafe9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 653
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f85586964ccf48b95b54461d01e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 653
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a84461813c354fae037467c9e6203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 653
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b4d6a9ec57c14bb0e4d99b368aba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 653
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9b91395d779347b6ccd38afe49945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 656
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6264366ec967842a02c48362106535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 656
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d8fdaca107ee46b80f765c5efe54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 656
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328014833540a744ca8e8aac3cc805bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 656
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5970d5c584f04b9ac7d9cd1c68304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 656
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52b6f6cba073a4f9770f77873356ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 656
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b5a806ccef4743b17329827243654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 656
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f44a23adaa364db99e6eed6fd2ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 656
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf0f9c3e7b58df4d8801e6aa5a520d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 591
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844de47117b5a34478d97a3c3307cfed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 591
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad64e861b49c554a810f45be0eb947a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 591
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01e776e192cb441aefd54589b91adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 591
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051764c9243fbc44889e618963c67f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 591
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e1de84609f6e4f8fc8630b7816689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 591
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2cb03594e2114a989b0b272faf8e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 591
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ebbc658d1bca8498e14613157d65e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 591
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0c94450ebae0f449b8871d63bb58f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 587
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90158f13f03aa0e44b15d179248c49c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 587
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08778978277ef6648b9ed40124485c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 587
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3cb05b18118b47a980e1630aee6d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 587
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e6d786651b59409cb4040d81728ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 586
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9b40492f7aa124e94b30df9c673707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 586
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523155f5d75b75a4789782d9f0434a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 586
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53602a6e12390444ade3b122b228bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 587
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8bc2fdc0372e342aaf7a1826353a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 519
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f3fd49bc28f24397a2149356630b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 519
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7cf4e6cad38e43b10012224464506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 519
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450357d5541722044b39e7dcfb7aca04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 519
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f4cd7e804c7d49a4c7196442114e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 519
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce292a9b628e064694fab43b0efb75a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 519
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237823ef750e3a3439c3e5f3a96b53ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 519
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a30e57711cd75748a81a1672c91a296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 519
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119317549bc62ab4d9fa08ffabdca9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 524
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35758ba1b3ad2459c796af5d30fb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 524
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd8b6bd2ec9764a9a062bbc916277f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 524
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bccc8b4dc6694eaf30248375b3494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 524
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90101cfb9d74a474ea2ba793ce73648e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 524
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317f76ed7216ea4db65235581182eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 523
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4f65fe42188d4393cd9d298fe2616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 524
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb75555d00ebd3479fbb557d277e12b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 524
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e548ed09292efe499438163e333ac8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 460
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75056813b0625c84b975b32285857e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 459
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a985ae0538ab624982550188d1f3554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 459
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234c6ee589a305459385c0a8b006e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9042571d79f8d7a4fa465822e3da362a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd87d77df02a7f4b920e9f3235ae083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 461
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159edcbe79609a40a037a8284a5abd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 462
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535f920770dbaa4b82a8cfb464310b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 462
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b68c469c8912468b1ce7905ef7216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea851efef4267e44b52238594fc3685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff832f09e1446448919b9c9f2f2437f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bfbc9e25821584696193c9b540e2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59daeb197368740b9edd7ea559ebb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ac9bc704e2494a979ae017163f282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfaa7b97e2a5ce4fb735bfb4b99c240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d0f946e3486742b0d19319e04916b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 466
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee6c29342d3b446b7418a30f16f605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 395
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe47f36ae7ac74d97e01ec61c5e137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd631a7da5a2fb44980aab7b6975a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 396
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dcc58049e7fcc43af4ef6d5399d0da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 396
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416dd1afe9812d24ba8ef44d2b2d7410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 396
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7cfe57bf7687a418c9fb5804b5166e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 395
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b949a5e8079f4e54eaa85d64806775a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 394
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66faa85ce421448b85693d311ef9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 394
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4d65da892fa84893aca018c5a5a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb41dc1a5f4eda4e9fe3bb2c4b9b181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b77c2f667c534db041b0498b07525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428878680ae93cd4ab4fed6a9c7571f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d78f6d84e0f894abb061312fb13589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803daaf9ac6583f4f87ccb841f3c0b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81766e7991915e4390fc8d9e624215e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688e4231aa69c34e81a906fae798aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 401
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc9387e483d0741b57299ac26aee34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473417e011857934f906a1bcbe878eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 329
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69742d9daeef4d45a938c2e33fcac98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 330
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ad28ec8b88fa47becee14f1f0e138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 330
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1fbf66afdef754e83ade1506327fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 329
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae3352b1019a84a9ad4bfa4d2ba58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544fae4e98228fe4a87236522befe9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 327
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17738c98087d3468f3edbd50ddea21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 327
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389c168797e33d459cb1152a9d6b86b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28110319efb8f4aaad253c21b6abca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b2a4fc6f7809a47bdc9f6997ca4d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5aeaa969c10d499a8dadc4db5da08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58de5db1d872d246a39c9d4b53c9557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046982373cad94a47805cae1d8913b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38374e78f06eb2a4581859725d7b5fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7c679e32df63a48885e317c74004b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 335
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d43692e29903b4a9d862a38aed107c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295825f3ce33eb4eaea02c2eb929fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b8fcc3a75c5a4081f15c9f5ac7923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 272
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650dd0b0cec66e45b3fb8e6baafc930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 191
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb65d5a2454a924b8b6a483a345f865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 272
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d405c50c515e499efb9a2cde9e7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 272
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06344c77148e864fbaf9dee29bd10f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 292
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d128b859215864692c829fc7e4e687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 293
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780c8c6469ec344696fabbc332a5e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 299
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284aca6ccfc52d48b9b12ab79cd8864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 292
+        width: 139
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f7b414a3d7bbb45aaa0cf08ee1340e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 269
+        width: 83
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506531842c32a7548bb876e49b61c445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 269
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971553375ed9214eae9de0a15a8dd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 272
+        width: 171
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c8488d41289b4988d95199e503cd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 251
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a01d4f3395d74ca0107f64183a89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 251
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39187bae31777e24789d699f7296e003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 249
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bcec3831e2dcf4cabcddb841e74ed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 251
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818adf156cc7af145acb1cedb7026fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 248
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe584f1dcb793a449c9fe7b85955e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 248
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5c768e783ecc449b2905cda1a6de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 251
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc1430547cffa40af2d12ad0be7ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 251
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a187e6c10dfc04ca59241a9bb86b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 203
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847068c3c223b044da6f09779bbb315e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 203
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f309957dc0674b9f2505c06fd4b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 203
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959cba21d4179e45bafdd8d1dcb1317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 203
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3db02493535df469c997734dd63532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 203
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866137f6142ca314491b47feb495f9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 203
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7bb6d92924f994bbdfb758e46d89b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 203
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e559da4aba4bc4881d56da36c8bebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 203
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048616bb2fe5c9c488890ef4c0d3acdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 228
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75250c5f5ef365c4d9c5d788edbfa33c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 226
+        width: 83
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51468c72aff0bc4db793d44cbddc788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 228
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44bb283aba74d14197a7b158af27729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 228
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78285efbb746813419c3c9b44c1837e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 226
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32bb6077d019094aa49d0015fbaa6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 183
+        width: 116
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618802de359030439d0f2423eae5fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 184
+        width: 145
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15a9aed156f9d54da2f5a6056fd097e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 137
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dbbe63b1615ea4982557aebd92e434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b30f1d19d70e34ab39d7c0e03946a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 137
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29fa537a49a7a4c8c75408c2723f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71113e9fb7ce1a94e84d05040c090af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 137
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2741c6fc98d845a4c158c1a29fc78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 137
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c197488f3f1e45ae22d79410e5c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 137
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6b001e19e33c4e85c7467d6015144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 137
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026aa0e7c09e9f4aa1ef510796ff51f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 137
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329121f53146424088dd888ae953f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 164
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c0f97335ffee409d3336d5d826508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 164
+        width: 166
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747df919665fac4087cd0ae8acfe7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 142
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d12f6e4c763749907e742490291bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 140
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98478f69c6bfc1c4fa7692ee3b7c7cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 142
+        width: 106
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd723ec4a06bc0418f927d0d2503388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 76
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6da2a552860fb4f8136b5194874388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0dc75f76e45e842ac9b76f7ed40931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd9aa90d874b64a88ffc00b3e5a222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ea11436aa3a049a72a68e111a8980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 76
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb697750b4bd66f4b9fbbb6043c7ee54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 76
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e65bcf40917e448b79e211557cae1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 76
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1bfd0b773739848a2061b8afd3b325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 76
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835f526be3e45746af705cc8d983451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 74
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4407317f608c63418a748c72c1fcc33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 75
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354fb5ad611971f4aa24173c436d67df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 76
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0a5d267318ef45b3feb1014226335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 75
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094ee487eaa5dd4d8ef9eac8a4b5ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 75
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c9a17f9c6fdc45a291e85a3f43a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 74
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d668f3e9ddff7d4286ea9632a82ed7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 74
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd175e3f7abb4043a9b57bfd5aafe4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 74
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06249b23315c3604eab13669b6dff33b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aeecf63f54e294bae3e4adf3cffabd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0cb2edbded7ac44beff1cfd569f7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c0f3c81c8a1b47a9c5d73fe4c0cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd946c01695840468a86e4f9c2b148f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 11
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f69e1b507d764890503b3b54a465a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 11
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e62d92f6ca132f479492d5bd68fcb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7df90e3e757c4690984e566b2c455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 12
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50812cb60c9bb948805539e84006b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 8
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a934bdbf787abe4893ab45b6f2b7a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 6
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31550177e6a9ebb49a223d0953b36d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 6
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395dfcb8f9361714596a213d2a618abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 6
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b89ddff0e246e4ba8f99996de65448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 6
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1bd1cbea5e3b418e3d82ad97fd723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 9
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb64193f453d054e90ef26f7b51ef2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 9
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9724848844ca4ca6b949242ecabc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Alien Sky - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 9
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378ab055a93a814eb39b873935cd71f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bea2e03453a05604c87ffbbaeea4b68c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
