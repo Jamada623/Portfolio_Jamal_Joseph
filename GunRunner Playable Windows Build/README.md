@@ -17,5 +17,10 @@ There is an options menu but the volume slider doesnt work atm
 
 There are still some collision issues but most have been ironed out
 
+2019	Created a Twin-stick shooter in unity using C#
 
+Gun Runner: highlighting randomly spawning enemies and features such as weapon switching.
+Implemented the mechanics and spawn system.
+Implemented the stage triggers
+Developed the menu and player control scripts
  
