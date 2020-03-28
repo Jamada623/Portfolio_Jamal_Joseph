@@ -15,7 +15,8 @@ def img_to_ascii(**kwargs):
     """
 
     #assigning ascii characters
-    ascii_chars = [ 'M', 'B', 'X', '0', 'J', '+', '-', '*', ':', ',', '.']
+    #ascii_chars = [ 'M', 'B', 'X', '0', 'J', '+', '-', '*', ':', ',', '.']
+    ascii_chars = [ 'b', 'd', 'f', 'r', 'K', 'R', 'A', 'F', 'D', 'L', 'B']
   
     #user input variables
     
@@ -28,13 +29,14 @@ def img_to_ascii(**kwargs):
     #opening and resizing image
     im = Image.open(path)
     im = resize(im,width)
+    im.show()
     w,h = im.size
     #print(w,h)
 
     #im = im.convert("L") # convert to grayscale    
     #font = 20
     font = kwargs.get('font')
-    shift = font//3
+    shift = font//4
     counter =0
 
     # Open a TTF file and specify the font size
@@ -43,15 +45,16 @@ def img_to_ascii(**kwargs):
 
     imlist = list(im.getdata())
 
-    newImg = Image.new ( 'RGBA', (w*font//3,h*font//3), (255,255,255,255))
+    newImg = Image.new ( 'RGB', (w*font//3,h*font//3), (255,255,255))
     drawOnMe = ImageDraw.Draw(newImg)
 
     #loops through every pixel and replaces it with a coloured ASCII character
     for height in range(h):
         for width in range (w):
             r,g,b=imlist[counter]
-            gray = int((r + b + g) / 3)
-            char = gray // 25            
+            #gray = int((r + b + g) / 3)
+            #char = gray // 25             
+            char=int((r+g+b)/3)//25           
             drawOnMe.text((width*font//3+shift,height*font//3+shift), ascii_chars[char], font=fnt, fill=(r,g,b))
             counter+=1
     
@@ -59,15 +62,15 @@ def img_to_ascii(**kwargs):
     newImg.save(output)
 
 
-    i = 1
-    for val in imlist:
-        sys.stdout.write(ascii_chars[val // 25])
-        i += 1
-        if i % width == 0:
-            sys.stdout.write("\n")
+    # i = 1
+    # for val in imlist:
+    #     sys.stdout.write(ascii_chars[val // 25])
+    #     i += 1
+    #     if i % width == 0:
+    #         sys.stdout.write("\n")
 
        
-    return i
+    #return i
 
     
 
